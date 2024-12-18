@@ -1,2 +1,2 @@
 # Robotics
-My robotics project covering Kinematics, Dynamics and Control @ Universitat Politècnica de Catalunya.
+My robotics project covering kinematics, dynamics and control @ Universitat Politècnica de Catalunya.
